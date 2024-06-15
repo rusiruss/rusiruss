@@ -1,4 +1,4 @@
-<img src="https://github.com/rusiruss/rusiruss/blob/main/cover-01.png" alt="rusiruss" />
+<img src="https://github.com/rusiruss/rusiruss/blob/main/cover2.png" alt="rusiruss" />
 <h1 align="center" >Hi 👋, I'm Rusiru shashimal</h1>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=25&center=true&vCenter=true&width=800&height=50&lines=IoT+and+Embedded+Systems+Developer;Computer+Science+Student;Frontend+Developer;Passionate+about+Robotics+and+Machine+Learning" alt="Headline" />
