@@ -62,13 +62,13 @@
 ---
 
 <h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://dev.to/@rusiruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@rusiruss" height="30" width="40" /></a>
-<a href="https://twitter.com/rusirushamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rusirushamal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rusiruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rusiruss" height="30" width="40" /></a>
-<a href="https://www.behance.net/russii_muse9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="russii_muse9x" height="30" width="40" /></a>
-<a href="https://medium.com/@rusiruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rusiruss" height="30" width="40" /></a>
-</p>
+<dev align="center">
+
+[<img  src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/Rusirushamal)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rusiruss)
+[<img src="https://img.shields.io/badge/medium-FFA500?&logo=medium&logoColor=white"/>](https://medium.com/@rusiruss)
+
+</dev>
 
 ---
 
